@@ -31,7 +31,7 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Ethics Paper CSCI 235](/pdf/ethicc paper csci 235.pdf)
+### [Ethics Paper CSCI 235](/pdf/ethics paper csci 235.pdf)
 
 -   **Class:**  
 -   **Grade:**
