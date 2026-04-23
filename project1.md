@@ -33,14 +33,18 @@ Almost every program requires user interaction, even command-line programs. Incl
 
 The first part of the UI is the homepage with navigation bar and search bar (see Fig 1), then we can navigate to a league by clicking on of the sports categories (see Fig 2). From there we can get a roster page of players to see their stats (see Fig 3). Then, you can view a player profile page (see Fig 4). There is also a ranking game and comparison tool for fans to use! (see Fig 5 and 6).
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/dum.jpg)  
 Fig 1. The website homepage
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/Fig_2.png)  
 Fig 2. Example output after input is processed.
 
 ![screenshot](images/dummy_thumbnail.jpg)  
 Fig 3. Feedback when an error occurs.
+
+![screenshot](images/dummy_thumbnail.jpg)
+
+![screenshot](images/dummy_thumbnail.jpg)
 
 ## 3. Additional Considerations
 
