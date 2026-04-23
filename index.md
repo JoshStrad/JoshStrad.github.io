@@ -31,20 +31,20 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Ethics Paper CSCI 235](/pdf/ethics paper csci 235.pdf)
+### [Ethics Paper CSCI 235](/pdf/ethics_paper_csci_235.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class: CSCI 235**  
+-   **Grade: A**
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
-
--   **Class:** 
--   **Grade:**
-
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [Ethics Paper CSCI 301](/pdf/Ethics_Paper_315_presentation.pdf)
 
 -   **Class:** 
 -   **Grade:**
+
+### [Ethics Paper 315](/pdf/ethics_paper_csci_315.docx)
+
+-   **Class: CSCI 315 Data Structures** 
+-   **Grade: A**
 
 ---
 
