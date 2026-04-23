@@ -1,37 +1,40 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+GameWinningStats Website
 ===============
 
--   **Class:** 
+-   **Class:  CSCI 497-499 ** 
 -   **Grade:** 
--   **Language(s):** 
+-   **Language(s): Python, HTML, JavaScript ** 
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This project will develop a sports analytics website that collects, processes, and displays player statistics from multiple sources. Some key features include web scraping from: Basketball Reference, Baseball Reference, and ESPN. There is data transformation into structured JSON files and dataframes, player search functionality, and player profile pages including: career stats, advanced analytics, rankings/comparisons, visualization of stats in charts/graphs
 
 ## How to compile and run the program
 
 How to compile (if applicable) and run the project.
 
 ```bash
-cd ./project
-python setup.py
+cd ./SeniorProject
+python scripts/scrape-bbr.py
+python scripts/scrape-babr.py
+python scripts/scrape-espn.py
+gatsby develop
 ```
 
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
+To deploy, you connect github repository to Netlify and from there it will give all instructions to deploy
 
 ## UI Design
 
 Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+The first part of the UI is the homepage with navigation bar and search bar (see Fig 1), then we can navigate to a league by clicking on of the sports categories (see Fig 2). From there we can get a roster page of players to see their stats (see Fig 3). Then, you can view a player profile page (see Fig 4). There is also a ranking game and comparison tool for fans to use! (see Fig 5 and 6).
 
 ![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+Fig 1. The website homepage
 
 ![screenshot](images/dummy_thumbnail.jpg)  
 Fig 2. Example output after input is processed.
