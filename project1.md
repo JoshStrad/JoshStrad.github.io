@@ -3,9 +3,9 @@
 GameWinningStats Website
 ===============
 
--   **Class:  CSCI 497-499 ** 
+-   **Class:  CSCI 497-499** 
 -   **Grade:** 
--   **Language(s): Python, HTML, JavaScript ** 
+-   **Language(s): Python, HTML, JavaScript** 
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
@@ -28,23 +28,25 @@ gatsby develop
 To deploy, you connect github repository to Netlify and from there it will give all instructions to deploy
 
 ## UI Design
+The first part of the UI is the homepage with navigation bar and search bar (see Fig 1), then we can navigate to a league by clicking on of the sports categories (see Fig 2). From there we can get a roster page of players.(see Fig 3). Then, you can view a player profile page to view thier stats and info (see Fig 4). There is also a ranking game and comparison tool for fans to use! (see Fig 5 and 6).
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
-
-The first part of the UI is the homepage with navigation bar and search bar (see Fig 1), then we can navigate to a league by clicking on of the sports categories (see Fig 2). From there we can get a roster page of players to see their stats (see Fig 3). Then, you can view a player profile page (see Fig 4). There is also a ranking game and comparison tool for fans to use! (see Fig 5 and 6).
-
-![screenshot](images/dum.jpg)  
+![screenshot](images/fig_1.png)  
 Fig 1. The website homepage
 
 ![screenshot](images/Fig_2.png)  
-Fig 2. Example output after input is processed.
+Fig 2. League page with all the teams from that league.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![screenshot](images/Fig_3.png)  
+Fig 3. Team Roster page.
 
-![screenshot](images/dummy_thumbnail.jpg)
+![screenshot](images/Fig_4.png)
+Fig 4. Player profile page.
 
-![screenshot](images/dummy_thumbnail.jpg)
+![screenshot](images/Fig_5.png)
+Fig 5. Ranking Game.
+
+![screenshot](images/Fig_6.png)
+Fig 6. Stat Comparison page.
 
 ## 3. Additional Considerations
 
