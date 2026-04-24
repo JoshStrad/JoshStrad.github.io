@@ -30,7 +30,7 @@ To deploy, you connect github repository to Netlify and from there it will give 
 ## UI Design
 The first part of the UI is the homepage with navigation bar and search bar (see Fig 1), then we can navigate to a league by clicking on of the sports categories (see Fig 2). From there we can get a roster page of players.(see Fig 3). Then, you can view a player profile page to view thier stats and info (see Fig 4). There is also a ranking game and comparison tool for fans to use! (see Fig 5 and 6).
 
-![screenshot](images/fig_1.png)  
+![screenshot](images/Fig_1.png)  
 Fig 1. The website homepage
 
 ![screenshot](images/Fig_2.png)  
@@ -50,7 +50,6 @@ Fig 6. Stat Comparison page.
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
