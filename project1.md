@@ -6,7 +6,7 @@ GameWinningStats Website
 -   **Class:  CSCI 497-499** 
 -   **Grade:** 
 -   **Language(s): Python, HTML, JavaScript** 
--   **Source Code Repository:** [features/mastering-markdown](https://github.com/JoshStrad/SeniorProject)  
+-   **Source Code Repository:** [Source Code Link](https://github.com/JoshStrad/SeniorProject)  
     (Please [email me](mailto:Joshsj17@gmail.comt?subject=GitHub%20Access) to request access.)
 
 ## Project description
