@@ -51,7 +51,7 @@ Fig 6. Stat Comparison page.
 ## 3. Additional Documents
 [Defense Doc](/pdf/Defense_doc.docx)
 [Test Plan](/pdf/Test_Plan.docx)
-
+[Defense Slides](/pdf/Defense_Slides.pptx)
 
 
 [Back to Portfolio](./)
