@@ -52,6 +52,6 @@ Fig 6. Stat Comparison page.
 [Defense Doc](/pdf/Defense_doc.docx)
 [Test Plan](/pdf/Test_Plan.docx)
 [Defense Slides](/pdf/Defense_Slides.pptx)
-
+[CSCI 497-499 Proposal Doc](/pdf/CSCI_497-499_Proposal_Doc.docx)
 
 [Back to Portfolio](./)
