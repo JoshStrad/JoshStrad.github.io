@@ -6,8 +6,8 @@ GameWinningStats Website
 -   **Class:  CSCI 497-499** 
 -   **Grade:** 
 -   **Language(s): Python, HTML, JavaScript** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Source Code Repository:** [features/mastering-markdown](https://github.com/JoshStrad/SeniorProject)  
+    (Please [email me](mailto:Joshsj17@gmail.comt?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
@@ -48,9 +48,9 @@ Fig 5. Ranking Game.
 ![screenshot](images/Fig_6.png)
 Fig 6. Stat Comparison page.
 
-## 3. Additional Considerations
+## 3. Additional Documents
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 
 [Back to Portfolio](./)
