@@ -17,7 +17,7 @@ Programming Projects
 ![Project 2 Thumbnail Name](images/fam_convert1.png)
 
 ---
-### [Project 3 Title | CSCI 325](project1)
+### [UI Final Project | CSCI 334](project3)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
