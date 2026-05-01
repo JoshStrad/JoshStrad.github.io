@@ -4,7 +4,7 @@ HL7 Family Tree Converter
 ===============
 
 -   **Class:  CSCI 495** 
--   **Grade:** 
+-   **Grade: A** 
 -   **Language(s): Java** 
 -   **Source Code Repository:** [Source Code Link](https://github.com/AlexThomp1/HL7FamilyTreeConverter)  
 
@@ -42,16 +42,16 @@ The program is now usable
 The first part of the UI is selecting a file of the patient that will reveal family members. (see Fig 1), then we can see the output of the family tree of the patient file we choose (see Fig 2). From there, we can update family members relationship to the patient and other background information.(see Fig 3). Then, you can export the saved family members into a new .xml file for storage in the system. (see Fig 5).
 
 ![screenshot](images/fam_convert2.png)  
-Fig 1. The website homepage
+Fig 1. File selection
 
 ![screenshot](images/fam_convert3.png)  
-Fig 2. League page with all the teams from that league.
+Fig 2. Output of Family Tree
 
 ![screenshot](images/fam_covert4.png)  
-Fig 3. Team Roster page.
+Fig 3. Updating patient family info
 
 ![screenshot](images/fam_convert5.png)
-Fig 4. Player profile page.
+Fig 4. .xml Selection for storage
 
 
 ## 3. Additional Documents
