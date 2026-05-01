@@ -9,6 +9,7 @@ UI Final Project
 -   **Source Code Repository:** [Source Code Link](https://github.com/JoshStrad/ui-final-project)  
 
 ## Project description
+By: Jefferey Wedding, Dylan Lee, and Josh Stradford
 
 Our project is a website for a fictitious nonprofit that is holding a charity 5K run. 
 The website contains information on the nonprofit, the race,
@@ -53,20 +54,20 @@ The goal of this project was to create a simple website for a fictitious nonprof
 To that end, one of our primary objectives was for the project was to have a simple, clean, and user-friendly UI. We used the adage "less is more" as guide, 
 opting to keep the design fairly simple in order to prevent the user from becoming overloaded.
 
-![screenshot](images/fam_convert2.png)  
-Fig 1. File selection
+![screenshot](images/ui_1.png)  
+Fig 1. Homepage
 
-![screenshot](images/fam_convert3.png)  
-Fig 2. Output of Family Tree
+![screenshot](images/ui_2.png)  
+Fig 2. Login Page
 
-![screenshot](images/fam_convert4.png)  
-Fig 3. Updating patient family info
+![screenshot](images/ui_3.png)  
+Fig 3. Registration Successful confirmation
 
-![screenshot](images/fam_convert5.png)
-Fig 4. .xml Selection for storage
+![screenshot](images/ui_4.png)
+Fig 4. Race Information
 
+![screenshot](images/ui_5.png)
+Fig 5. More race information
 
-## 3. Additional Documents
-[Video Guide](https://www.youtube.com/watch?v=darrJ0l5nAI)
 
 [Back to Portfolio](./)
