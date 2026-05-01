@@ -12,9 +12,9 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/Fig_1.png)
 
 ---
-### [HL7 Family Tree COnverter | CSCI 495](project2)
+### [HL7 Family Tree Converter | CSCI 495](project2)
 
-![Project 2 Thumbnail Name](images/fam_convert1.jpg)
+![Project 2 Thumbnail Name](images/fam_convert1.png)
 
 ---
 ### [Project 3 Title | CSCI 325](project1)
