@@ -47,7 +47,7 @@ Fig 1. File selection
 ![screenshot](images/fam_convert3.png)  
 Fig 2. Output of Family Tree
 
-![screenshot](images/fam_covert4.png)  
+![screenshot](images/fam_convert4.png)  
 Fig 3. Updating patient family info
 
 ![screenshot](images/fam_convert5.png)
