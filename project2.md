@@ -3,7 +3,7 @@
 HL7 Family Tree Converter 
 ===============
 
--   **Class:  CSCI 495** 
+-   **Class:  CSCI 495 Systems Analysis & Software Design** 
 -   **Grade: A** 
 -   **Language(s): Java** 
 -   **Source Code Repository:** [Source Code Link](https://github.com/AlexThomp1/HL7FamilyTreeConverter)  
