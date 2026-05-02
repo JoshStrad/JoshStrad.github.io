@@ -38,10 +38,10 @@ Ethics Papers
 
 ### [Ethics Paper CSCI 301](/pdf/Ethics_Paper_315_presentation.pdf)
 
--   **Class: CSCI 301 Data Management** 
+-   **Class: CSCI 301 Database Management** 
 -   **Grade: A**
 
-### [Ethics Paper 315](/pdf/ethics_paper_csci_315.docx)
+### [Ethics Paper 315](/pdf/ethics_paper_csci_315.pdf)
 
 -   **Class: CSCI 315 Data Structures** 
 -   **Grade: A**
