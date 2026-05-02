@@ -31,14 +31,14 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Ethics Paper CSCI 235](/pdf/ethics_paper_csci_235.pdf)
+### [Ethics Paper CSCI 315](/pdf/ethics_paper_csci_325.pdf)
 
--   **Class: CSCI 235 Procederal Programming**  
+-   **Class: CSCI 325 Objected-Oriented Programming**  
 -   **Grade: A**
 
-### [Ethics Paper CSCI 301](/pdf/Ethics_Paper_315_presentation.pdf)
+### [Ethics Paper CSCI 301](/pdf/Ethics_Paper_csci_301.pdf)
 
--   **Class: CSCI 301 Database Management** 
+-   **Class: CSCI 301 Survey Scripting Languages** 
 -   **Grade: A**
 
 ### [Ethics Paper 315](/pdf/ethics_paper_csci_315.pdf)
@@ -51,13 +51,13 @@ Ethics Papers
 Presentations
 -------------
 
-### [CSCI 301 Scripting Languages Presentation](/pdf/CSCI_301_Srcipting_Languages.pptm)
+### [CSCI 301 Scripting Languages Presentation](/pdf/CSCI_301_Srcipting_Languages.pdf)
 
 - **Class: CSCI 301 Scripting Languages** 
 - **Grade: A**
 
 
-### [Data Breach Presentation](/pdf/CYBERSECURITY_presentation.pptx)
+### [Data Breach Presentation](/pdf/CYBERSECURITY_PRESENTATION.pdf)
 
 - **Class: CSCI 405 Principles of Cybersecurity** 
 - **Grade: A**
