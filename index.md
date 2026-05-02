@@ -51,13 +51,13 @@ Ethics Papers
 Presentations
 -------------
 
-### [CSCI 301 Scripting Languages Presentation](/pdf/sample_presentation.pdf)
+### [CSCI 301 Scripting Languages Presentation](/pdf/CSCI_301_Srcipting Languages.pptx)
 
 - **Class: CSCI 301 Scripting Languages** 
 - **Grade: A**
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Presentation 2 Title](/pdf/CYBERSECUIRTY_presentation.pptx)
 
 - **Class: CSCI 400 Principles of Cybersecurity** 
 - **Grade: B**
