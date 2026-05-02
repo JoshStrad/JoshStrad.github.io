@@ -3,7 +3,7 @@
 Tennis Game Simulator 
 ===============
 
--   **Class:  CSCI 235 Procederal Programming** 
+-   **Class:  CSCI 325 Object-Oriented Programming** 
 -   **Grade: A** 
 -   **Language(s): Java** 
 -   **Source Code Repository:** [Source Code Link](https://github.com/JoshStrad/CSCI_325_Tennis_Game1.git)  
