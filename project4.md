@@ -6,7 +6,7 @@ Tennis Game Simulator
 -   **Class:  CSCI 235 Procederal Programming** 
 -   **Grade: A** 
 -   **Language(s): Java** 
--   **Source Code Repository:** [Source Code Link](https://github.com/JoshStrad/ui-final-project)  
+-   **Source Code Repository:** [Source Code Link](https://github.com/JoshStrad/CSCI_325_Tennis_Game1.git)  
 
 ## Project description
 By: Zach Wedding and Josh Stradford
