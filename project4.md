@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-UI Final Project 
+Tennis Game Simulator 
 ===============
 
 -   **Class:  CSCI 235 Procederal Programming** 
@@ -48,19 +48,19 @@ The program will compile and execute, prompting the user for input in the output
 ## UI Design
 The Tennis Game Simulator uses a simple console-based user interface. Instead of using buttons, graphics, or windows, the program interacts with the user through text prompts in the NetBeans output console. The interface is designed to be straightforward and easy to follow. The program displays instructions, asks the user to enter choices, and then prints the results of each action. For example, the user may be asked to choose heads or tails for the coin toss, select a serve difficulty, or decide how hard to return the ball. The scoreboard is also displayed in text format. It shows each player’s current score using traditional tennis scoring terms such as Love, 15, 30, and 40. This allows the user to track the progress of the game while keeping the interface simple and beginner-friendly. Overall, the UI focuses on clarity, usability, and direct interaction through the command line.
 
-![screenshot](images/ui_1.png)  
+![screenshot](images/tennis_1.png)  
 Fig 1. Welcome to the Tennis Simulator coin toss.
 
-![screenshot](images/ui_2.png)  
+![screenshot](images/tennis_2.png)  
 Fig 2. Player who won coin toss chooses serve.
 
-![screenshot](images/ui_3.png)  
+![screenshot](images/tennis_4.png)  
 Fig 3. Fault simulation leading to return hit.
 
-![screenshot](images/ui_4.png)
+![screenshot](images/tennis_3.png)
 Fig 4. Fault Simulation leading to socre
 
-![screenshot](images/ui_5.png)
+![screenshot](images/tennis_5.png)
 Fig 5. Extended serve and return back and fourth
 
 
