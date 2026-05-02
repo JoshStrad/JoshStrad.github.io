@@ -51,7 +51,7 @@ Ethics Papers
 Presentations
 -------------
 
-### [CSCI 301 Scripting Languages Presentation](/pdf/CSCI_301_Srcipting Languages.pptx)
+### [CSCI 301 Scripting Languages Presentation](/pdf/CSCI_301_Srcipting_Languages.pptm)
 
 - **Class: CSCI 301 Scripting Languages** 
 - **Grade: A**
