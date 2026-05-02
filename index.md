@@ -59,7 +59,7 @@ Presentations
 
 ### [Data Breach Presentation](/pdf/CYBERSECURITY_presentation.pptx)
 
-- **Class: CSCI 400 Principles of Cybersecurity** 
+- **Class: CSCI 405 Principles of Cybersecurity** 
 - **Grade: A**
 
 ---
