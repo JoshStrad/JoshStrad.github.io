@@ -31,7 +31,7 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Ethics Paper CSCI 315](/pdf/ethics_paper_csci_325.pdf)
+### [Ethics Paper CSCI 325](/pdf/ethics_paper_csci_325.pdf)
 
 -   **Class: CSCI 325 Objected-Oriented Programming**  
 -   **Grade: A**
